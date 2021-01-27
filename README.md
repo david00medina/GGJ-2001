@@ -1,1 +1,1 @@
-# GGJ-2001
+# Global Game Jam 2021
