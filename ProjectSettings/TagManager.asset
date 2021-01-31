@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Sight
+  - Hearing
+  - Smell
+  - PlayerSight
+  - DialogPanel
+  - GlobalLight
+  - GameManager
+  - Environment
+  - Mirror
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Postprocessing
+  - Player
+  - Platforms
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2141060353
+    locked: 0
+  - name: Platforms
+    uniqueID: 560159707
+    locked: 0
+  - name: Player
+    uniqueID: 670864833
+    locked: 0
+  - name: Foreground
+    uniqueID: 3509134047
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
